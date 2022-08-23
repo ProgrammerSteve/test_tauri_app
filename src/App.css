@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  height: 100vh;
+  width: 100wh;
+  background-color: #282c34;
+  color:antiquewhite;
+  font-size: xx-large;
+  display:grid;
+  place-items: center;
+}
